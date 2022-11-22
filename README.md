@@ -1,4 +1,4 @@
-### Hi, I am HoubkneghteS 👋
+### Hi, I am Adam 👋
 
 I am Adam aka HoubkneghteS, a developer from Minnesota who is currently in college.
 
