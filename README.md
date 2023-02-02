@@ -1,9 +1,8 @@
 ### Hello 👋
 
-I am Adam aka HoubkneghteS, a developer from Minnesota who is currently in college.
+I am Adam aka HoubkneghteS. I work in IT in Detroit Lakes, MN.
 
 - 🔭 I’m currently working on my project [Weltenschaft](https://github.com/houbkneghtes/weltenschaft)
-- 🌱 I’m currently learning computer science in college
 - 📫 How to reach me: *[Here](https://github.com/HoubkneghteS/HoubkneghteS/issues)* or via email at *adam9812(at)live.com*
 
 ## Links
