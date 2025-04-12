@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I am Adam aka HoubkneghteS. I work in IT in Detroit Lakes, MN.
+I am Adam aka HoubkneghteS, I like to play music, tinker, and enjoy the outdoors. Check out some of my projects: 
 
 ## Links
 - [Github](https://github.com/HoubkneghteS) (You are here)
